@@ -1,13 +1,13 @@
-# << ENTER WORKSHOP NAME HERE >>
-Materials DASH tutorial: **<<  ENTER WORKSHOP NAME HERE  >> **  
+Intro to R Programmng
+Materials DASH tutorial: Intro to R Programming
 
-This repository contains workshop files, as well as files used to create the [workshop webpage](https://scds.githib.io/<<enter_site_url>>) with GitHub Pages   
+This repository contains workshop files, as well as files used to create the [workshop webpage](https://scds.github.io/r-programming/) with GitHub Pages   
 
 
 Contributions by the following individuals: 
-- Workshop content created by << ENTER NAME(S) HERE >> 
-- Content edited for online use by << ENTER NAME(S) HERE >> 
-- Online pages created by << ENTER NAME(S) HERE >> 
+- Workshop content created by Isaac Kinley
+- Content edited for online use by Veronica Litt and Amanda Montague
+- Online pages created by Veronica Litt
 
 
   
