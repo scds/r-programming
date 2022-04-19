@@ -1,4 +1,4 @@
-Intro to R Programmng
+Intro to R Programming
 Materials DASH tutorial: Intro to R Programming
 
 This repository contains workshop files, as well as files used to create the [workshop webpage](https://scds.github.io/r-programming/) with GitHub Pages   
