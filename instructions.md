@@ -12,5 +12,3 @@ After ensuring that you've followed the [Preparatory steps](preparation), open R
 
 View the original [here](https://echo360.ca/media/72bb7a46-c355-442b-8813-d59f853b4ff7/public).
 
-
--->
