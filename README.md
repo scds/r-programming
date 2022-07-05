@@ -5,7 +5,7 @@ This repository contains workshop files, as well as files used to create the [wo
 
 
 Contributions by the following individuals: 
-- Workshop content created by Isaac Kinley
+- Workshop content created by Isaac Kinley and Vivek Jadon
 - Content edited for online use by Veronica Litt and Amanda Montague
 - Online pages created by Veronica Litt
 
