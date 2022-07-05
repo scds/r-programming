@@ -4,7 +4,7 @@ title: Workshop Recording
 nav_order: 3
 ---
 
-After ensuring that you've followed the [Preparatory steps](preparation), open R and follow along with the first workshop recording and files from the [Preparation](https://scds.github.io/r-programming/preparation.html) page.
+After ensuring that you've followed the [Preparatory steps](preparation), open R and follow along with the 2022 workshop recording, led by Isaac Kinley.  Find the required files in the [Preparation](https://scds.github.io/r-programming/preparation.html) page.
 
 ## 2022 Workshop recording
 
